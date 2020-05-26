@@ -288,9 +288,13 @@ address p{
         width: auto;
     }
 
-    .recommandations h3 {
+    h3 {
 
-        font-size: medium;
+        font-size: 2.2em;
+    }
+
+    .content {
+        width: auto;
     }
 }
 
