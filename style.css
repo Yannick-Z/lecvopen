@@ -309,6 +309,7 @@ address p{
     }
     section{
         padding:20px;
+        margin-left: 50%;
     }
     article ul:nth-child(2){
         margin-right:0;
@@ -344,9 +345,6 @@ address p{
         margin-top: 360%;
     }
 
-    section {
-        margin-left: 50%;
-    }
 
     .recommandations div {
         width: fit-content;
