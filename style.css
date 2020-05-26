@@ -299,7 +299,7 @@ address p{
 }
 
 
-@media screen and (max-width: 991px) {
+@media screen and (max-width: 1024px) {
     .container {
         flex-direction: column;
     }
@@ -344,7 +344,7 @@ address p{
         margin-top: 360%;
     }
 
-    article {
+    section {
         margin-left: 50%;
     }
 
