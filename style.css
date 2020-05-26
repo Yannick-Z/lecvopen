@@ -299,10 +299,8 @@ address p{
 }
 
 
-@media all and (max-width: 1024px) {
-    .content {
-        flex-direction: column;
-    }
+@media all and (min-width: 725px) {
+
     h1{
         font-size:3.4em;
         margin-top:50px;
