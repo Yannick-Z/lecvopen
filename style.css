@@ -299,3 +299,43 @@ address p{
 }
 
 
+@media screen and (max-width: 980px) {
+    .container {
+        flex-direction: column;
+    }
+    h1{
+        font-size:3.4em;
+        margin-top:50px;
+    }
+    section{
+        padding:20px;
+    }
+    article ul:nth-child(2){
+        margin-right:0;
+    }
+    address{
+        display: flex;
+    }
+    header{
+        text-align: center;
+        padding-top:30px;
+    }
+    header hr{
+        display:flex;
+        margin:auto;
+    }
+    header img{
+        border-radius: 300px;
+        display: flex;
+        margin: auto;
+    }
+    aside{
+        padding-top: 0;
+    }
+    aside h3:first-child{
+        margin-top: 0;
+    }
+    aside img{
+        display: none;
+    }
+}
