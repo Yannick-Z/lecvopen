@@ -319,6 +319,7 @@ address p{
     header{
         text-align: center;
         padding-top:30px;
+        margin-left: 50%;
     }
     header hr{
         display:flex;
@@ -337,5 +338,17 @@ address p{
     }
     aside img{
         display: none;
+    }
+
+    .aside_loisir {
+        margin-top: 360%;
+    }
+
+    article {
+        margin-left: 50%;
+    }
+
+    .recommandations div {
+        width: fit-content;
     }
 }
