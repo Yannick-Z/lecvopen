@@ -300,7 +300,7 @@ address p{
 
 
 @media screen and (max-width: 1024px) {
-    .container {
+    .content {
         flex-direction: column;
     }
     h1{
@@ -317,9 +317,9 @@ address p{
         display: flex;
     }
     header{
-        text-align: center;
+        
         padding-top:30px;
-        margin-left: 50%;
+        margin-left:50%;
     }
     header hr{
         display:flex;
@@ -350,5 +350,9 @@ address p{
 
     .recommandations div {
         width: fit-content;
+    }
+
+    article {
+        margin-left: 50%;
     }
 }
