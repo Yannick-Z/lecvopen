@@ -283,5 +283,15 @@ address p{
     header img{
         max-width:150px;
     }
+
+    .texte_partie_droit {
+        width: auto;
+    }
+
+    .recommandations h3 {
+
+        font-size: medium;
+    }
 }
+
 
