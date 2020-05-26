@@ -299,7 +299,7 @@ address p{
 }
 
 
-@media screen and (max-width: 1024px) {
+@media all and (max-width: 1024px) {
     .content {
         flex-direction: column;
     }
