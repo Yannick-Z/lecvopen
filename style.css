@@ -255,7 +255,7 @@ address p{
     }
 }
 
-@media all and (max-width: 425px) {
+@media screen and (max-width: 425px) {
     .partie_gauche {
         display: flex;
         flex-direction: column;
@@ -296,6 +296,10 @@ address p{
 
     .content {
         width: auto;
+    }
+
+    p {
+        font-style: italic;
     }
 }
 
