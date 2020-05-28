@@ -296,6 +296,10 @@ article ul li:first-child{
         margin-bottom: 15px;
         border-radius: 7px;
     }
+
+    .recommandations h3 {
+        font-size: 1.5em;
+    }
    
     .address{
         flex-direction: column;
