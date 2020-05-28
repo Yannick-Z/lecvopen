@@ -218,16 +218,16 @@ article ul li:first-child{
     margin-bottom:13px;
     text-transform: uppercase;
 }
-address{
+.address{
     font-style:normal;
     font-weight: 400;
 }
-address a{
+.address a{
     text-decoration: none;
     color:#FFF;
     padding-left:0px;
 }
-address p{
+.address p{
     margin-top:25px;
 }
 
@@ -297,7 +297,7 @@ address p{
         border-radius: 7px;
     }
    
-    address{
+    .address{
         flex-direction: column;
     }
     header img {
@@ -326,7 +326,7 @@ address p{
        margin-right: 0;
    }
 
-   address {
+   .address {
        display: flex;
    }
 
