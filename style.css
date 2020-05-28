@@ -307,6 +307,10 @@ article ul li:first-child{
     header img {
         max-width: 150px;
     }
+
+    article h3 {
+        font-size: 1.5em;
+    }
     
 }
     
