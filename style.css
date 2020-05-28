@@ -303,6 +303,9 @@ address p{
         margin-bottom: 125%;
     }
 
+    p {
+        font-style: italic;
+    }
     
 }
 
