@@ -276,6 +276,10 @@ article ul li:first-child{
         margin-bottom: 15px;
         border-radius:7px;
     }
+
+    header h2 {
+        font-size: 1.5em;
+    }
     header {
         margin-bottom: 50px;
     }
@@ -312,6 +316,10 @@ article ul li:first-child{
 
     article h3 {
         font-size: 1.5em;
+    }
+
+    article {
+        margin-right: 0;
     }
     
 }
